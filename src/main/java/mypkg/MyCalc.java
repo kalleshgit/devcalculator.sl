@@ -2,6 +2,9 @@ package mypkg;
 
 public class MyCalc {
 	
+	int y = 10;
+	public void Scan()
+	{System.out.println("Hi");}
 	public int sum (int a, int b)
 	{
 		return a+b;
